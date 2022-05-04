@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Floor
+  - EnemyPhysics
+  - Enemy
+  - EnemyProjectile
+  - Checkpoint
+  - PlayerProjectile
+  - Gate
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BehindBackground
+    uniqueID: 344698095
+    locked: 0
+  - name: Background
+    uniqueID: 1019382449
+    locked: 0
+  - name: Foreground
+    uniqueID: 296314245
+    locked: 0
+  - name: Gate
+    uniqueID: 2885167495
+    locked: 0
+  - name: InRoomElements
+    uniqueID: 4083367127
+    locked: 0
+  - name: Portal
+    uniqueID: 1707076969
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: InRoomElementsInFrontOfPlayer
+    uniqueID: 3609090425
+    locked: 0
